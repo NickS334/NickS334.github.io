@@ -1,0 +1,105 @@
+
+#header {
+	background-color: black;
+	height: 250px;
+	width: 1350px;
+	color: #ccd9e3;
+	font-family: Rockwell, Arial;
+	text-decoration: bold;
+	font-size: 80px;	
+}
+
+#menu {
+	
+	width: 1350px;
+	float: left;
+	color: #ccd9e3;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+#content {
+	background-color: black;
+	height: 5000px;
+	
+	
+}
+	
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+li a {
+	width: 200px;
+	height: 35px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+}
+
+li a:hover {
+	color: #a32c2c;
+    background-color: black;
+}
+
+#content h3 {
+	color: white;
+	font-weight: bold;
+	padding: 50px;
+	text-align: center;
+}
+
+#content h5 {
+	color: #d92121;
+	text-align: center;
+}
+	
+
+#planning h6 {
+	color: #d92121;
+}
+
+#fotoplanning {
+	text-align:center;
+}
+#foto1 {
+	
+	border-style: solid;
+	border-width: 10px;
+	border-color: #d92121;
+	display: block;
+	text-align:center;
+}
+#foto2 {
+
+	border-style: solid;
+	border-width: 10px;
+	border-color: #d92121;
+	display: block;
+    text-align:center;
+}
+#foto3 {
+	
+	border-style: solid;
+	border-width: 10px;
+	border-color: #d92121;
+	display: block;
+	text-align:center;
+}
+#foto4 {
+	
+	border-style: solid;
+	border-width: 10px;
+	border-color: #d92121;
+	display: block;
+	text-align:center;
+}
+
+#content h4 {
+	Color: white
+}
